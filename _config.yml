@@ -49,6 +49,8 @@ exclude:
   - vite.config.ts
   - tmp
   - Procfile.dev
+  - README.md
+  - LICENSE.txt
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
