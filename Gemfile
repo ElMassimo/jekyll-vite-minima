@@ -13,6 +13,9 @@ gem "webrick"
 # Happy Jekylling!
 gem "jekyll", "~> 4.2.0"
 
+# Use Vite.js to HMR assets during development and bundle them in production.
+gem 'jekyll-vite'
+
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", github: 'jekyll/minima', ref: '7a326eb6df07ee6ee5305cfc1b28f7092037e67d'
 
