@@ -32,7 +32,7 @@ Check the commit history for a step-by-step recap:
 4. [add `jekyll-vite` to the Gemfile](https://github.com/ElMassimo/jekyll-vite-minima/commit/facf1a6)
 5. [run `bundle exec vite install`](https://github.com/ElMassimo/jekyll-vite-minima/commit/fdb3d76)
 6. [uncomment `exclude:` in `_config.yml`](https://github.com/ElMassimo/jekyll-vite-minima/commit/b333fab)
-7. [add ViteRuby tags to custom head](https://github.com/ElMassimo/jekyll-vite-minima/commit/b333fab)
+7. [add ViteRuby tags to `custom-head.html`](https://github.com/ElMassimo/jekyll-vite-minima/commit/b333fab)
 
 ## Additional Resources 📖
 
