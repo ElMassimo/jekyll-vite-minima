@@ -32,6 +32,7 @@ github_username:  jekyll
 # Build settings
 theme: minima
 plugins:
+  - jekyll/vite
   - jekyll-feed
 
 # Exclude from processing.
@@ -43,6 +44,11 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 # exclude:
+  - bin
+  - config
+  - vite.config.ts
+  - tmp
+  - Procfile.dev
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
