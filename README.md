@@ -15,6 +15,8 @@
 [documentation website]: https://jekyll-vite.netlify.app/
 [jekyll]: https://jekyllrb.com/
 [minima]: https://github.com/jekyll/minima
+[this blog post]: https://tetrapyloctomy.org/articles/2021/08/04/jekyll-vite.html
+[@posiczko]: https://github.com/posiczko
 
 This repo demonstrates how to setup [Vite Ruby] in a [Jekyll] site using the [minima] default theme.
 
@@ -35,6 +37,9 @@ Check the commit history for a step-by-step recap:
 ## Additional Resources 📖
 
 Visit the [`jekyll-vite`][jekyll-vite] [documentation website] for more information.
+
+If you would like to process the [minima] stylesheets with Vite, see [this blog post] by
+[@posiczko].
 
 ## License
 
