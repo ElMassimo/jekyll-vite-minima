@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://jekyll-vite.netlify.app/">
-    <img src="https://raw.githubusercontent.com/ElMassimo/vite_ruby/main/docs/public/logo.svg" width="120px"/>
+    <img src="https://raw.githubusercontent.com/ElMassimo/vite_ruby/main/logo.svg" width="120px"/>
   </a>
 
   <br>
@@ -15,7 +15,7 @@
 [documentation website]: https://jekyll-vite.netlify.app/
 [jekyll]: https://jekyllrb.com/
 [minima]: https://github.com/jekyll/minima
-[this blog post]: https://tetrapyloctomy.org/articles/2021/08/04/jekyll-vite.html
+[this blog post]: https://tetrapyloctomy.org/articles/easy-asset-pipeline-for-jekyll-using-vite/
 [@posiczko]: https://github.com/posiczko
 
 This repo demonstrates how to setup [Vite Ruby] in a [Jekyll] site using the [minima] default theme.
